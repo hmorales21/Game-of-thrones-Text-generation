@@ -12,5 +12,8 @@
 1. Datasets
     - got1.txt
 2. Notebooks
+    - got_text_generation_EDA.ipynb
 3. Model
 4. Deployment
+<br>
+
