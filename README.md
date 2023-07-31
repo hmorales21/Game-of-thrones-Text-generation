@@ -13,6 +13,8 @@
     - got1.txt
 2. Notebooks
     - got_text_generation_EDA.ipynb
+    - got_text_generation_Preprocessing.ipynb
+    - got_text_generation_modelling.ipynb
 3. Model
 4. Deployment
 <br>
